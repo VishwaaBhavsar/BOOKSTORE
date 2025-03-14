@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "J.K. Rowling",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "price": 499,
+        "category": "Fantasy",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "George Orwell",
+        "title": "1984",
+        "price": 399,
+        "category": "Dystopian",
+        "image": "https://example.com/1984.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jane Austen",
+        "title": "Pride and Prejudice",
+        "price": 299,
+        "category": "Classic",
+        "image": "https://example.com/prideandprejudice.jpg"
+    },
+    {
+        "id": 4,
+        "name": "J.R.R. Tolkien",
+        "title": "The Lord of the Rings",
+        "price": 599,
+        "category": "Fantasy",
+        "image": "https://example.com/lordoftherings.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Markus Zusak",
+        "title": "The Book Thief",
+        "price": 350,
+        "category": "Historical Fiction",
+        "image": "https://example.com/bookthief.jpg"
+    }
+]
